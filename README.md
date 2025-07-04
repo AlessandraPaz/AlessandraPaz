@@ -3,13 +3,11 @@
 💼 Em transição de carreira para a área de Qualidade de Software (QA), sou uma entusiasta por explorar e dominar novas tecnologias. Com foco nos estudos e aplicação de metodologias de teste, desde manuais e exploratórios até a automação robusta.
 
 
-
 <br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
  
 - 📚 Atualmente estudando ferramentas e praticando testes manuais e automatizados.  
-- 🛠 Também estudando  **gestão de projetos** e aprofundando os **fundamentos de teste**  
 - ✍️ Estou cursando o BootCamp - DIO **NTT DATA - Java e IA para Iniciantes**  
 - 📫 Contato: [aledapaz@hotmail.com](mailto:aledapaz@hotmail.com)  
 
@@ -72,6 +70,8 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AlessandraPaz&show_icons=true&theme=radical" height="200" alt="Estatísticas da Alessandra"/>
+
+  <br>
 
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlessandraPaz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="200" alt="Linguagens mais usadas por Alessandra"/>
